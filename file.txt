@@ -3,3 +3,4 @@ Arslan. [edited2]
 Isma
 
 (isma create master branch)
+(Reset etmeli -force)
